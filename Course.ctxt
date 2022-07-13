@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Course
+comment1.params=courseID\ coursename\ duration
+comment1.target=Course(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getCourseID()
+comment2.text=Accessor\ method\ of\ all\ the\ attributes\ of\ course\ class\ is\ assigned.\r\nSimilarly\ mutator\ method\ of\ courseleader\ is\ assigned
+comment3.params=
+comment3.target=java.lang.String\ getCoursename()
+comment4.params=
+comment4.target=java.lang.String\ getCourseleader()
+comment5.params=
+comment5.target=int\ getDuration()
+comment6.params=newCourseleader
+comment6.target=void\ setCourseleader(java.lang.String)
+comment7.params=
+comment7.target=void\ display()
+numComments=8
